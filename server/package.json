@@ -1,0 +1,32 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "inclass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inclass"
+  ],
+  "author": "Mandes Stoner",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chai-http": "^3.0.0",
+    "express": "^4.16.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodemon": "^0.5.4",
+    "grunt-env": "^0.4.4",
+    "jshint-stylish": "^2.2.1",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.12.1",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-nodemon": "^0.5.4"
+  }
+}

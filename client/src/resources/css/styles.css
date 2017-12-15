@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+  .left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.wrapper {
+    width: 500px;
+    margin: auto;
+    padding: auto;
+    overflow: auto;
+}
+
+.textcolor {color: #ff0000}
+
+.btn-login {background-color: #990099} 
+.btn-login {color: #ffffff}
+
+
+
+

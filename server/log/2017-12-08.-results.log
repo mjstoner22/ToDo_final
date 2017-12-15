@@ -1,0 +1,73 @@
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T22:51:26.823Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T22:51:27.123Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T22:54:43.335Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T22:54:43.419Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T22:55:37.748Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T22:55:37.809Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T22:57:15.456Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T22:57:15.507Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T22:57:15.550Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:17:50.273Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:17:50.471Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T23:17:50.506Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:38:26.712Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-08T23:38:26.741Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:38:53.335Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-08T23:38:53.337Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:39:33.934Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-08T23:39:33.938Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:39:42.048Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-08T23:39:42.049Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:40:12.673Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:40:12.890Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T23:40:12.940Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:40:15.349Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:40:27.185Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:40:27.413Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T23:40:27.469Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:40:44.453Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-08T23:40:44.457Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:41:01.688Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:41:15.815Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:41:16.043Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T23:41:16.101Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:41:17.801Z"}
+{"level":"verbose","message":"Get user 5a2b227260a8623d4c9963ae","timestamp":"2017-12-08T23:41:17.804Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:42:03.987Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:42:13.099Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:42:13.331Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T23:42:13.391Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:42:14.541Z"}
+{"level":"info","message":"Update user","timestamp":"2017-12-08T23:42:14.569Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:42:24.165Z"}
+{"level":"info","message":"Update user","timestamp":"2017-12-08T23:42:24.170Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:42:41.684Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-08T23:42:41.686Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:42:55.289Z"}
+{"level":"info","message":"Delete User ","timestamp":"2017-12-08T23:42:55.292Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:43:06.574Z"}
+{"level":"verbose","message":"Get all users","timestamp":"2017-12-08T23:43:06.575Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:44:27.229Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:48:23.336Z"}
+{"level":"verbose","message":"Create User","timestamp":"2017-12-08T23:48:23.338Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:52:08.507Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:52:08.700Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:52:33.401Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:52:33.605Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-08T23:52:53.171Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-08T23:52:53.359Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-08T23:52:53.410Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:53:27.926Z"}
+{"level":"verbose","message":"Create Todo","timestamp":"2017-12-08T23:53:27.951Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:53:56.718Z"}
+{"level":"verbose","message":"Get todo 5a2b227260a8623d4c9963ae","timestamp":"2017-12-08T23:53:56.720Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:54:20.945Z"}
+{"level":"info","message":"Update Todos","timestamp":"2017-12-08T23:54:20.947Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:54:36.572Z"}
+{"level":"verbose","message":"Get todo 5a2b227260a8623d4c9963ae","timestamp":"2017-12-08T23:54:36.572Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:55:11.187Z"}
+{"level":"info","message":"Update Todos","timestamp":"2017-12-08T23:55:11.188Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:55:30.612Z"}
+{"level":"verbose","message":"Get todo 5a2b227260a8623d4c9963ae","timestamp":"2017-12-08T23:55:30.613Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-08T23:55:58.995Z"}
+{"level":"info","message":"Delete Todo ","timestamp":"2017-12-08T23:55:58.998Z"}

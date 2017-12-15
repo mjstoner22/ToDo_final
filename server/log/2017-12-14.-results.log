@@ -1,0 +1,27 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T00:53:43.312Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-14T00:53:43.765Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T00:53:43.843Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T23:43:00.627Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-14T23:43:01.157Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T23:43:01.240Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-14T23:43:52.021Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-14T23:43:52.289Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-14T23:43:52.336Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:04.529Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:04.786Z"}
+{"level":"verbose","message":"Get todo 5a2b227260a8623d4c9963ae","timestamp":"2017-12-14T23:50:04.789Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:49.063Z"}
+{"level":"verbose","message":"Create Todo","timestamp":"2017-12-14T23:50:49.065Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:49.122Z"}
+{"level":"verbose","message":"Upload file for todo 5a330e59afe4f43db0717ba4 and 5a2b227260a8623d4c9963ae","timestamp":"2017-12-14T23:50:49.144Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:54.120Z"}
+{"level":"verbose","message":"Get todo 5a2b227260a8623d4c9963ae","timestamp":"2017-12-14T23:50:54.121Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:55.662Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:50:55.734Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:51:07.493Z"}
+{"level":"info","message":"Update Todos","timestamp":"2017-12-14T23:51:07.494Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:51:12.657Z"}
+{"level":"info","message":"Update Todos","timestamp":"2017-12-14T23:51:12.658Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:51:21.578Z"}
+{"level":"info","message":"Delete Todo ","timestamp":"2017-12-14T23:51:21.579Z"}
+{"level":"info","message":"Request from ::1","timestamp":"2017-12-14T23:59:37.547Z"}

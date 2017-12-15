@@ -1,0 +1,28 @@
+<template>
+                <center>
+                        <p>Please fill out the appropriate information to register:</p> 
+                    </div>
+                   </center>
+
+    <div id="errorMsg" innerhtml.bind="registerError"></div>
+   <center> 
+            <center>
+                    
+                                   
+First Name: <input value.bind="user.firstName" class="col-lg-3 col-lg-offset-5" id="firstName" placeholder="First Name">
+<br></br>    
+Last Name: <input value.bind="user.lastName" class="col-lg-3 col-lg-offset-5" id="lastName" placeholder="Last Name">     
+<br></br>    
+Email: <input value.bind="user.email" type="email" class="col-lg-3 col-lg-offset-5" id="email" placeholder="Email"> 
+<br></br>  
+Password: <input value.bind="user.password" type="password" class="col-lg-3 col-lg-offset-5" id="password" placeholder="Password">
+<br></br>  
+ 
+    <button type="button" class="btn btn-login" click.trigger="save()">Register</button>
+<button type="button" class="btn btn-link" click.trigger="goback()">Go to Login</button>
+</form> 
+</center>
+</div>
+</div>
+</center>
+</template>

@@ -1,0 +1,13 @@
+<template>
+<style>
+	body {background-color: #ffccff}
+</style>
+	<link href="../../resources/css/styles.css" rel="stylesheet" /> 
+	<div class="container">
+	
+	
+     <compose show.bind="showLogin" view="./components/login.html"></compose>
+ 
+     <compose show.bind="!showLogin" view="./components/register.html"></compose>
+</body>
+ </template>
